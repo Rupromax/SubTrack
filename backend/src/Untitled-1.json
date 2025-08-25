@@ -1,0 +1,7 @@
+{
+  "message": "Subscription Backend API",
+  "version": "1.0.0",
+  "endpoints": {
+    "health": "/api/health"
+  }
+}
